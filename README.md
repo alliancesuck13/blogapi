@@ -57,6 +57,7 @@ return [
 `/posts`
 `/posts/1...101`
 `/posts?sort=id | /posts?sort=-id (по убыванию)`
+`/posts?page=2...6`
 `CRUD`
 
 **Users**
